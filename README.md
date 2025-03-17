@@ -8,19 +8,6 @@ I'm a passionate developer with a keen interest in software development, open-so
 - **Tools & Platforms:** Git
 - **Databases:** MySQL, SQLServer, SqlList
 
-## Projects
-Here are some of the projects I've been working on:
-
-### Project 1: Awesome Project
-- **Description:** A brief description of what this project does and why it's awesome.
-- **Tech Stack:** Java, C#
-- **GitHub Repo:** [Link to the repository]([https://github.com/yclown/awesome-project](https://github.com/yclown/ql_jd_cookie))
-
-### Project 2: Another Cool Project
-- **Description:** A brief description of what this project does and why it's cool.
-- **Tech Stack:** C#
-- **GitHub Repo:** [Link to the repository]([https://github.com/yclown/another-cool-project](https://github.com/yclown/MobileControlGuru))
-
 
 ## Connect with Me
 - **GitHub:** [yclown](https://github.com/yclown)
